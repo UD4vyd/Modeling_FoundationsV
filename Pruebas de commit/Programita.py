@@ -1,1 +1,1 @@
-print("hi everyone i trying to bring out my best version with help to GOD he give me everyting and whitout him im notingh")https://github.com/UD4vyd/Modeling_FoundationsV
+print("hi everyone i trying to bring out my best version with help to GOD he give me everyting and whitout him im notingh")
